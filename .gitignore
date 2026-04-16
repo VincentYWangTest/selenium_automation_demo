@@ -1,0 +1,25 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Allure 报告
+reports/
+allure-report/
+
+# 浏览器驱动
+drivers/
+
+# IDE 配置
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 日志
+*.log
